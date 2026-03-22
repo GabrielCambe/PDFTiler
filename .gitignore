@@ -13,3 +13,6 @@ pyvenv.cfg
 
 # Local tooling
 .vscode/
+
+# AI related
+tasks/
